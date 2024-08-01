@@ -4,18 +4,18 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "17864347035"
+global.ownernomer = "923315637414"
 global.ownername = "David Cyril"
 global.ytname = "David Cyril"
 global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '17864347035,2349066528353,254782572110'  //creator number
+global.ownernumber = '923315637414,2349066528353,254782572110'  //creator number
 global.ownername = 'Ali master#1' //owner name
 global.botname = '🕷ali master all bot deply free🕷' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
+global.packname = 'ali'
 global.author = 'David_Cyril\n\nContact: +2349066528353'
 
 //console view/theme
@@ -63,7 +63,7 @@ global.mess = {
     error: 'Error!',
 }
 
-global.thumb = fs.readFileSync('./XeonMedia/thumb.jpg')
+global.thumb = fs.readFileSync('./IMG-20240723-WA0133_1.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
