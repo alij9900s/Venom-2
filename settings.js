@@ -11,8 +11,8 @@ global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Africa, Nigeria, Lagos"
 
 global.ownernumber = '17864347035,2349066528353,254782572110'  //creator number
-global.ownername = 'Ali master' //owner name
-global.botname = '🕷ali jan🕷' //name of the bot
+global.ownername = 'Ali master#1' //owner name
+global.botname = '🕷ali master all bot deply free🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
